@@ -1,9 +1,4 @@
 
-export AMPLIFY_REPOSITORY=https://github.com/agiusalexandre/generative-ai-amazon-bedrock-langchain-agent-example
-export GITHUB_PAT=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
-export STACK_NAME=demosummitproovstation
-export KENDRA_WEBCRAWLER_URL=https://www.proovstation.fr/ # Public or internal HTTPS website for Kendra to index via Web Crawler (e.g., https://www.<your-company>.com) - Please see https://docs.aws.amazon.com/kendra/latest/dg/data-source-web-crawler.html
-
 # Build generative AI agents with Amazon Bedrock, Amazon DynamoDB, Amazon Kendra, Amazon Lex, and LangChain
 ---
 
